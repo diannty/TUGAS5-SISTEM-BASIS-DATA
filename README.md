@@ -8,6 +8,8 @@ Kelas   = TI 20 D1
 
 1. Buatlah Sebuah Database Seperti Pada Gambar Dibawah Ini
 
+![contoh](https://user-images.githubusercontent.com/101880835/172033345-bc61d99a-236a-43e5-b800-98b2fc0c7432.png)
+
 2. Membuat Akses Untuk Database
 
 ![KONEKSI](https://user-images.githubusercontent.com/101880835/172033082-8e16d50c-6bfe-4240-8be6-478a03e5d337.png)
